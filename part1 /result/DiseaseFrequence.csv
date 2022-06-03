@@ -1,0 +1,985 @@
+disease,2
+"Leukemia, Lymphocytic, Chronic, B-Cell",0
+Colon Neoplasms,0
+Breast Neoplasms,0
+Leukemia,0
+Lung Neoplasms,0
+Colorectal Carcinoma,0
+"Leukemia, Promyelocytic, Acute",0
+Neoplasms [unspecific],0
+Pituitary Neoplasms,0
+"Carcinoma, Hepatocellular",0
+"Cardiomyopathy, Hypertrophic",0
+Thyroid Neoplasms,0
+Asthma,0
+"Lymphoma, B-Cell",0
+Ovarian Neoplasms,0
+Polycythemia Vera,0
+"Leukemia, Myeloid, Acute",0
+"Leukemia, Lymphoblastic",0
+"Lymphoma, Hodgkin",0
+Nasopharyngeal Neoplasms,0
+Retinal Degeneration,0
+"Carcinoma, Renal Cell",0
+Myelodysplastic Syndromes,0
+Neurodegenerative Diseases [unspecific],0
+Lupus Vulgaris,0
+"Leukemia, Myeloid, Chronic-Phase",0
+"Leukemia-Lymphoma, Precursor B-Cell Lymphoblastic",0
+Schizophrenia,0
+Marek Disease,0
+Autistic Disorder,0
+Atherosclerosis,0
+Sepsis,0
+Choriocarcinoma,0
+Glomerulonephritis,0
+glomerulonephritis,7
+"Child Development Disorders, Pervasive",0
+Melanoma,0
+"Diabetes Mellitus, Type 2",0
+"Lymphoma, Large-Cell, Anaplastic",0
+Pancreatic Neoplasms,0
+Heart Failure,0
+Hemangioma,0
+Diabetes Mellitus,0
+Human Immunodeficiency Virus Infection,0
+"Leukemia-Lymphoma, Precursor T-Cell Lymphoblastic",0
+Hypertrophy,0
+Glioblastoma,0
+Systemic Lupus Erythematosus,0
+Lymphoma,0
+"Leukemia-Lymphoma, Adult T-Cell",0
+"Carcinoma, Adrenocortical",0
+Mesothelioma,0
+"Leukemia, Myeloid, Chronic",0
+"Carcinoma, Lung, Non-Small-Cell",0
+Alzheimer Disease,0
+"Squamous Cell Carcinoma, Esophageal",0
+Hypertension,0
+Preeclampsia,0
+Urinary Bladder Cancer,0
+"carcinoma, renal cell",1
+Eosinophilic Esophagitis,0
+Ectopic Pregnancy,0
+Graves Disease,0
+Prostate Neoplasms,0
+Myocardial Infarction,0
+Multiple Myeloma,0
+Hepatitis C Virus Infection,0
+Gastric Neoplasms,0
+Endometriosis,0
+Primary Biliary Cirrhosis,0
+Myasthenia Gravis,0
+Multiple Sclerosis,0
+Polycystic Kidney Disease,0
+Parkinson Disease,0
+Retinoblastoma,0
+"Diabetes Mellitus, Type 1",0
+Crohn Disease,0
+Methylmalonic Acidemia,0
+Sjogren Syndrome,0
+Bladder Neoplasms,0
+Autism Spectrum Disorder,0
+Rheumatoid Arthritis,0
+"Fatty Liver, Non-Alcoholic",0
+Stroke,0
+Acute Cerebral Infarction,0
+Premature Ovarian Failure,0
+Arrhythmia,0
+"Carcinoma, Esophageal",0
+Plasmodium vivax Infection,0
+Acute Myocardial Infarction,0
+Coronary Artery Disease,0
+Spinal Cord Injuries,0
+Hypoxic-Ischemic Encephalopathy,0
+"Stroke, Ischemic",0
+Dengue Virus Infection,0
+Obesity,0
+Glioma,0
+Cholangiocarcinoma,0
+Acute Heart Failure,0
+Spondylarthritis,0
+"leukemia, myeloid, chronic",0
+Polycystic Ovarian Syndrome,0
+"Leukemia, Myeloid, Acute, Pediatric",0
+Chronic Hepatitis B,0
+Aortic Stenosis,0
+"Carcinoma, Hepatocellular, HBV-Related",0
+Allergic Rhinitis,0
+Lung Fibrosis,0
+Anxiety Disorders,0
+Carotid Artery Diseases,0
+Spinal Muscular Atrophy,0
+Kideny Transplant Rejection,0
+Acute Ischemic Stroke,0
+Cardiovascular Diseases [unspecific],0
+Aortic Valve Disease,0
+Vascular Hypertrophy,0
+"Leukemia, Lymphoblastic, Acute, Childhood",0
+"Leukemia, Lymphoblastic, Acute",0
+Pulmonary Hypertension,0
+Frontotemporal Dementia,0
+"Diabetes Mellitus, Gestational",0
+Spinal Stenosis,0
+Familial Mediterranean Fever,0
+Traumatic Brain Injury,0
+Acute Lung Injury,0
+Lupus Nephritis,0
+Kidney Neoplasms,0
+Arthritis,0
+Diabetic Nephropathy,0
+Anemia,0
+Ischemic Diseases [unspecific],0
+Hyperactivity Disorder,0
+Heart Diseases [unspecific],0
+Metabolic Syndrome,0
+Behcet Disease,0
+rheumatoid arthritis,0
+Muscle Atrophy,0
+Myeloproliferative Neoplasms,0
+Head And Neck Neoplasms,0
+Pancreatic Adenocarcinoma,0
+"Squamous Cell Carcinoma, Oral",0
+Myocardial Ischemic-Reperfusion Injury,0
+"Leukemia, Acute",0
+"Adenocarcinoma, Pancreatic Ductal",0
+"Carcinoma, Rectal",0
+atherosclerosis,2
+"Scleroderma, Localized",0
+"Scleroderma, Systemic",0
+"Muscular Dystrophy, Duchenne",0
+Hepatitis B Virus Infection,0
+Acute Cerebral Ischemia,0
+"Leukemia, Lymphoblastic, Acute, T-Cell",0
+Acute Kidney Failure,0
+"Tuberculosis, Pulmonary",0
+"Squamous Cell Carcinoma, Head and Neck",0
+Gastrointestinal Neoplasms,0
+Giant Cell Tumor of Bone,0
+Liver Cirrhosis,0
+Liver Diseases [unspecific],0
+gastric neoplasms,0
+Osteoporosis,0
+Interstitial Lung Disease,0
+Chronic Kidney Disease,0
+Esophageal Neoplasms,0
+"Carcinoma, Oral",0
+Endometrial Neoplasms,0
+"Lymphoma, Large B-Cell, Diffuse",0
+Testicular Neoplasms,0
+Kidney Diseases [unspecific],0
+Lung Disease [unspecific],0
+Fragile X Syndrome,0
+Early-Stage Cervical Squamous Cell Carcinoma,0
+chronic obstructive pulmonary disease,0
+Chronic Obstructive Pulmonary Disease,0
+Machado-Joseph Disease,0
+Ovary Mixed Epithelial Carcinoma,0
+"Carcinoma, Nasopharyngeal",0
+Graft-Versus-Host Disease,0
+Liver Injury,0
+Biliary Tract Neoplasms,0
+Peripheral Vascular Disease,0
+Hereditary Breast Carcinoma,0
+"Squamous Cell Carcinoma, Lung",0
+"Carcinoma, Renal Cell, Clear-Cell",0
+"Adenocarcinoma, Lung",0
+"Carcinoma, Thyroid, Papillary",0
+HELLP Syndrome,0
+Adrenal Cortex Neoplasms,0
+Mild Cognitive Impairment,0
+Uveal Melanoma,0
+Immune Thrombocytopenic Purpura,0
+pancreatic neoplasms,9
+Early-Stage Non-Small-Cell Lung Carcinoma,0
+Early-Stage Lung Carcinoma,0
+Amyotrophic Lateral Sclerosis,0
+Non-Neoplastic Diseases,0
+Early-Stage Gastric Carcinoma,0
+Early-Stage Breast Carcinoma,0
+Chronic Hepatitis C,0
+Psoriasis,0
+"Lymphoma, Non-Hodgkin",0
+Influenza,0
+Irritable Bowel Syndrome,0
+glioma,11
+"Carcinoma, Lung",0
+"Squamous Cell Carcinoma, Laryngeal or Hypopharyngeal",0
+Colorectal Adenocarcinoma,0
+Muscle Diseases [unspecific],0
+Osteosarcoma,0
+Germ Cell Tumor,0
+Myeloma,0
+Focal Segmental Glomerulosclerosis,0
+Proliferative Diabetic Retinopathy,0
+Macroglobulinemia,0
+"Carcinoma, Breast",0
+Endomyocardial Fibrosis,0
+Intrahepatic Cholangiocarcinoma,0
+Oral Neoplasms,0
+"Lymphoma, T-Cell",0
+Prediabetes,0
+"Carcinoma, Urothelial, Upper Tract",0
+"carcinoma, urothelial, upper tract",0
+"Carcinoma, Cervical",0
+Unstable Angina,0
+"Carcinoma, Biliary Tract",0
+Allergic Asthma,0
+Male Infertility,0
+Acute Coronary Syndrome,0
+Tuberculosis,0
+Epilepsy,0
+"Cardiomyopathy, Dilated",0
+"Carcinoma, Gallbladder",0
+Huntington Disease,0
+"Carcinoma, Colon",0
+Brain Disease [unspecific],0
+hepatitis b virus infection,0
+Rectal Neoplasms,0
+Vasculitis,0
+Mycobacterium tuberculosis Infection,0
+Liver Neoplasms,0
+Acute Pancreatitis,0
+Coronary Atherosclerosis,0
+Intestinal Schistosomiasis,0
+Synovial Sarcoma,0
+synovial sarcoma,0
+Nephrotic Syndrome,0
+"Carcinoma, Hepatocellular, HCV-Related",0
+Bronchopulmonary Dysplasia,0
+Essential Hypertension,0
+Angiosarcoma,0
+Rheumatic Heart Diseases,0
+"diabetes mellitus, type 2",2
+"Colitis, Ulcerative",0
+Ewing Sarcoma,0
+Digestive System Neoplasms,0
+Major Depressive Disorder,0
+Inherited Hemoglobin Disease,0
+Myotonic Dystrophy Type 1,0
+Hirschsprung Disease,0
+Autoimmune Lymphoproliferative Syndrome,0
+"Carcinoma, Ovarian",0
+Glaucoma,0
+Idiopathic Asthenospermia,0
+"Carcinoma, Pancreatic",0
+"Carcinoma, Thyroid, Follicular",0
+Muscular Dystrophy,0
+acute myocardial infarction,0
+Hepatoblastoma,0
+"Carcinoma, Gastric",0
+Aplastic Anemia,0
+Age-Related Macular Degeneration,0
+Ischemia-Reperfusion Injury,0
+Hematologic Neoplasms,0
+Mesial Temporal Lobe Epilepsy,0
+Atrial Fibrillation,0
+Arteriosclerosis Obliterans,0
+Cardiomyopathy,0
+"Lymphoma, Burkitt",0
+"Carcinoma, Ovarian, Serous",0
+Lofgren Syndrome,0
+Kidney Injury,0
+"Carcinoma, Breast, Triple Negative",0
+"Carcinoma, Prostate",0
+"Carcinoma, Lung, Small-Cell",0
+colorectal carcinoma,0
+"Neuralgia, Postherpetic",0
+"Carcinoma, Bladder",0
+Foot-and-Mouth Disease,0
+"Aortic Aneurysm, Abdominal",0
+Cutaneous Melanoma,0
+Hyperhomocysteinemia,0
+Osteoarthritis,0
+Ischemic Heart Disease,0
+Hyperlipoproteinemia Type III,0
+Acute Respiratory Distress Syndrome,0
+Peripheral Nervous System Diseases,0
+Celiac Disease,0
+Cervical Neoplasms,0
+Diabetic Cardiomyopathies,0
+Transitional Cell Carcinoma,0
+Crohn Colitis,0
+crohn colitis,0
+Bicuspid Aortic Valve Disease,0
+Friedreich Ataxia,0
+Periodontitis,0
+Dementia,0
+Chagas Disease,0
+Azoospermia,0
+Inflammatory Bowel Diseases,0
+Liposarcoma,0
+Respiratory Syncytial Virus Pneumonia,0
+Cerebral Malaria,0
+Proliferative Glomerulonephritis,0
+Diabetic Retinopathy,0
+Uterine Cancer,0
+Congenital Heart Diseases,0
+Primary Sclerosing Cholangitis,0
+Pulmonary Sarcoidosis,0
+traumatic brain injury,0
+Recurrent Spontaneous Abortion,0
+Cystic Fibrosis,0
+Hepatic Veno-Occlusive Disease,0
+Frailty,0
+Viral Infectious Disease,0
+Hepatitis [unspecific],0
+Kawasaki Syndrome,0
+"adenocarcinoma, esophageal",0
+Testicular Germ Cell Tumor,0
+Vascular Myelopathy,0
+Aneurysmal Subarachnoid Hemorrhage,0
+"Leukemia, B-Cell",0
+Brain Neoplasms,0
+Focal Epithelial Hyperplasia,0
+"leukemia, lymphoblastic, acute",0
+Eczema Herpeticum,0
+"Carcinoma, Embryonal",0
+Cerebellum Cancer,0
+"Leukemia, Myeloid",0
+Tongue Neoplasms,0
+Prion Diseases,0
+Rhabdomyosarcoma,0
+Viral Myocarditis,0
+Medulloblastoma,0
+Wounds and Injuries [unspecific],0
+"Fatty Liver, Alcoholic",0
+Pulmonary Embolism,0
+osteoarthritis,4
+Cerebral Ischemia,0
+Hyperlipidemia,0
+breast neoplasms,5
+Inflammation,0
+Fatty Liver [unspecific],0
+Idiopathic Short Stature,0
+Ankylosing Spondylitis,0
+"Systemic Lupus Erythematosus, With Pericarditis",0
+Pancreatic Endocrine Carcinoma,0
+Moyamoya Disease,0
+Atopic Dermatitis,0
+Oral Lichen Planus,0
+Mountain Sickness,0
+Cardiac Allograft Vasculopathy,0
+Hypercholesterolaemia,0
+Autoimmune Diseases [unspecific],0
+Cardiomegaly,0
+Chronic Fatigue Syndrome,0
+Depression Disorder,0
+myocardial infarction,6
+Down Syndrome,0
+Hearing Loss,0
+Cholesteatoma,0
+Neurilemmoma,0
+Vascular Disease [unspecific],0
+Migraine,0
+"Carcinoma, Thyroid",0
+Chronic Brucellosis,0
+Peripheral Nerve Injury,0
+Glycogen Storage Disease II,0
+metabolic syndrome,0
+Amyloidosis,0
+Waldenstrom Macroglobulinemia,0
+Human Papilloma Virus Infection,0
+Chronic Hepatitis,0
+Ischemia,0
+Idiopathic Pulmonary Fibrosis,0
+Central Nervous System Embryonal Tumor,0
+Pelvic Inflammatory Disease,0
+pelvic inflammatory disease,5
+Graves Ophthalmopathy,0
+Intermittent Claudication,0
+Pleural Mesothelioma,0
+Toxic Epidermal Necrolysis,0
+Malignant Neoplasms [unspecific],0
+Autoimmune Hepatitis,0
+Acquired Immunodeficiency Syndrome,0
+Ependymoma,0
+Heart Transplant Rejection,0
+"Carcinoma, Periampullary",0
+"Carcinoma, Urothelial",0
+Encephalitis,0
+lung neoplasms,10
+Myotonic Muscular Dystrophy,0
+"Lymphoma, Large B-Cell",0
+Rectum Adenocarcinoma,0
+Diabetic Foot,0
+B-cell Childhood Acute Lymphoblastic Leukemia,0
+Stevens-Johnson Syndrome,0
+Plasmodium Falciparum Malaria,0
+Sarcoma [unspecific],0
+"carcinoma, lung, non-small-cell",0
+Neuroblastoma,0
+systemic lupus erythematosus,0
+Early-Stage Lung Adenocarcinoma,0
+Liver Fibrosis,0
+"Leukemia, T-Cell",0
+Squamous Cell Carcinoma,0
+"Carcinoma, Endometrial",0
+"Adenocarcinoma, Colon",0
+Chronic Inflammatory Pain,0
+Chondrosarcoma,0
+Helicobacter pylori Infection,0
+Wilms Tumor,0
+Soft Tissue Sarcoma,0
+soft tissue sarcoma,0
+Colon Adenoma,0
+Skin Neoplasms,0
+Sarcomatoid Mesothelioma,0
+"Adenocarcinoma, Esophageal",0
+Ovarian Serous Cystadenocarcinoma,0
+"Carcinoma, Endometrioid Endometrial",0
+Nervous System Diseases [unspecific],0
+Tourette Syndrome,0
+ovarian neoplasms,11
+Sensorineural Hearing Loss,0
+"Leukemia, Biphenotypic, Acute",0
+"Squamous Cell Carcinoma, Cerevial",0
+Myopia,0
+Gout,0
+gout,2
+Habitual Abortion,0
+Dyspepsia,0
+Intracranial Aneurysm,0
+Vitiligo,0
+Psychiatric Disorders,0
+Cataract,0
+Hyperglycemia,0
+Non-Syndromic Orofacial Clefts,0
+Alcohol Use Disorder,0
+Uveitis,0
+Dermatomyositis,0
+IgA Nephropathy,0
+Autoimmune Thyroiditis,0
+Coronary Restenosis,0
+Leprosy,0
+Generalized Epilepsy with Febrile Seizures Plus,0
+Li-Fraumeni Syndrome,0
+"Adenocarcinoma, Gastric",0
+Cardiometabolic Disorders,0
+Neuropsychiatric Disorders [unspecific],0
+endometrial neoplasms,4
+Carotid Atherosclerosis,0
+Tooth Agenesis,0
+"Lymphoma, Follicular",0
+Pemphigus,0
+Ossification of Posterior Longitudinal Ligament,0
+Kaposi Sarcoma,0
+human immunodeficiency virus infection,0
+Macular Degeneration,0
+Neuroinflammation,0
+Creutzfeldt-Jakob Disease,0
+Lymphedema,0
+Psoriatic Arthritis,0
+Infertility,0
+Charcot-Marie-Tooth Disease Type 1A,0
+"Lymphoma, Mantle-Cell",0
+Progressive Supranuclear Palsy,0
+Musculoskeletal Abnormalities [unspecific],0
+atrial fibrillation,1
+Idiopathic Pulmonary Hypertension,0
+Primary Immunodeficiency Disease,0
+Renal Fibrosis,0
+Pterygium,0
+Hypogonadotropic Hypogonadism,0
+Chronic Heart Failure,0
+"Carcinoma, Thyroid, Medullary",0
+Immune System Disease [unspecific],0
+Encephalomyelitis,0
+Intervertebral Disc Degeneration,0
+"Squamous Cell Carcinoma, Tongue",0
+Vascular Injuries,0
+"carcinoma, nasopharyngeal",0
+Infection [unspecific],0
+Listeriosis,0
+Colitis,0
+Alcoholic Hepatitis,0
+Leiomyosarcoma,0
+Rhinosinusitis,0
+Acute Erythroid Leukemia,0
+Gastrointestinal Stromal Tumor,0
+"Carcinoma, Laryngeal",0
+Fanconi Anemia,0
+Juvenile Rheumatoid Arthritis,0
+"Cytotoxicity Tests, Immunologic",0
+"Neovascularization, Pathologic",0
+Hypertrophic Scar,0
+Wound Healing,0
+neuroblastoma,3
+Uterine Leiomyoma,0
+Liver Failure,0
+Pituitary Adenoma,0
+Neuropathic Pain,0
+Congenital Diaphragmatic Hernia,0
+Retinal Neovascularization,0
+Adenovirus Infection,0
+cardiovascular diseases [unspecific],0
+Astrocytoma,0
+Laryngeal Neoplasms,0
+"Carcinoma, Skin",0
+"Lymphoma, T-Cell, Cutaneous",0
+Hypoxia,0
+"Carcinoma, Salivary Adenoid Cystic",0
+Chronic Pain,0
+Lacrimal Adenoid Cystic Carcinoma,0
+Invasive Bladder Transitional Cell Carcinoma,0
+Granular Corneal Dystrophy,0
+Allergy,0
+"Cardiomyopathy, Ischemic",0
+ischemia-reperfusion injury,0
+Germ Cell And Embryonal Neoplasms,0
+Teratocarcinoma,0
+Lipid Metabolism Disorder,0
+Barrett Esophagus,0
+medulloblastoma,1
+Neutropenia,0
+Pain,0
+Meningioma,0
+Intracerebral Hemorrhage,0
+Alopecia,0
+Severe Acute Respiratory Syndrome Virus Infection,0
+Chlamydial Infection ,0
+Chordoma,0
+Toxoplasma gondii Infection,0
+Acute Megakaryoblastic Leukemia,0
+Granulosa Cell Tumor,0
+Cocaine Abuse,0
+Distal Myopathy,0
+asthma,5
+"Carcinoma, Basal Cell",0
+Childhood Leukemia,0
+Panic Disorder,0
+Periodontal Diseases,0
+Congenital Deafness,0
+Antiphospholipid Syndrome,0
+"carcinoma, hepatocellular",1
+"Squamous Cell Carcinoma, Maxillary Sinus",0
+Atrophic Gastritis,0
+Hailey-Hailey Disease,0
+Anus Neoplasm,0
+"Adenocarcinoma, Endometrial",0
+"Hand, Foot And Mouth Disease",0
+Biliary Atresia,0
+Sezary Disease,0
+Keloid,0
+Thrombocytosis,0
+Cardiac Fibrosis,0
+Diffuse Lipomatosis,0
+Oral Leukoplakia,0
+Lepromatous Leprosy,0
+Porcine Reproductive and Respiratory Syndrome Virus Infection,0
+Interstitial Cystitis,0
+inflammation,47
+Psychotic Disorders,0
+Feingold Syndrome,0
+Hepatitis E Virus Infection,0
+Pancreatic Serous Cystic Neoplasm,0
+Pheochromocytoma,0
+pheochromocytoma,1
+Chronic Inflammation,0
+Salivary Gland Neoplasms,0
+Lesch-Nyhan Syndrome,0
+Coxsackievirus Infection,0
+Salmonellosis,0
+Microvascular Disease,0
+bladder neoplasms,0
+Vulvar Squamous Cell Carcinoma,0
+Pediatric Glioma,0
+Hantavirus Infection,0
+Leishmaniasis,0
+Perlman Syndrome,0
+Chikungunya Virus Infection,0
+Fetal Alcohol Spectrum Disorder,0
+Fuchs Endothelial Dystrophy,0
+Bladder Outlet Obstruction,0
+Systemic Mastocytosis,0
+"Squamous Cell Carcinoma, Skin or Unspecific",0
+Wound Inflammation,0
+Diabetic Vasculopathy,0
+Pediatric Osteosarcoma,0
+Childhood Obesity,0
+Meningitis,0
+Skin Disease [unspecific],0
+"Carcinoma, Tounge",0
+Enterovirus Infection,0
+Early-Stage Small-Cell Lung Carcinoma,0
+Selective IgE Deficiency Disease,0
+Long QT Syndrome,0
+Cervix Endometrial Stromal Tumor,0
+Tetralogy Of Fallot,0
+Breast Malignant Phyllodes Tumor,0
+Keratitis,0
+Epstein-Barr Virus Infection,0
+Posterior Capsule Opacification,0
+Aortic Aneurysm,0
+Ebola Hemorrhagic Fever,0
+"Adenocarcinoma, Prostate",0
+"adenocarcinoma, prostate",0
+"Carcinoma, Ovarian, Clear Cell",0
+Tibial Meniscus Injuries,0
+"Carcinoma, Neuroendocrine",0
+Atypical Teratoid Tumor,0
+Gallstones,0
+Uterine Corpus Choriocarcinoma,0
+Endometrial Stromal Sarcoma,0
+Androgenetic Alopecia,0
+cystic fibrosis,1
+Cholestasis,0
+"Adenocarcinoma, Cervical",0
+Bipolar Disorder,0
+Thrombosis,0
+Japanese Encephalitis Virus Infection,0
+Thyroid Adenomas,0
+"squamous cell carcinoma, tongue",0
+Pregnancy Complications [unspecific],0
+Cervicitis,0
+Mandibular Prognathism,0
+Narcolepsy,0
+Neuroendocrine Tumors,0
+Coloboma,0
+Chromosome 5q Deletion Syndrome,0
+Toxic Encephalopathy,0
+Intellectual Disability,0
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",0
+Costello Syndrome,0
+Colorectal Adenoma,0
+Non-Sensory Diseases,0
+Early-Stage Colon Carcinoma,0
+Hemophilia A,0
+Mitochondrial Metabolism Disease,0
+Growth Disorders,0
+Digeorge Syndrome,0
+Aortic Insufficiency,0
+Hypogonadism,0
+Emphysema,0
+Peritoneal Dialysis Failure,0
+Disease of Metabolism,0
+Aneurysm,0
+Bronchiolitis Obliterans Syndrome,0
+"Carcinoma, Merkel Cell",0
+"Carcinoma, Gastrooesophageal",0
+Neurofibromatosis type 2,0
+Ovarian Disease,0
+Pneumonia,0
+Recurrent Wheezing,0
+Bone Disease [unspecific],0
+Blindness,0
+Atrioventricular Septal Defect,0
+Preterm Labor,0
+Chromosome 15q13.3 Microdeletion Syndrome,0
+Holt-Oram Syndrome,0
+intrahepatic cholangiocarcinoma,0
+Osteogenesis Imperfecta,0
+"Carcinoma, Thyroid, Anaplastic",0
+"Leukemia, Lymphoblastic, Acute, B-Cell",0
+Gastric Cardia Adenocarcinoma,0
+Acute Brucellosis,0
+White Spot Syndrome Virus Infection,0
+Hemoglobin Diseases,0
+Cardiac Myocyte Injury,0
+Breast Adenocarcinoma,0
+Myelofibrosis,0
+Persistent Fetal Circulation Syndrome,0
+Cerebral Aneurysm,0
+"Osteoporosis, Postmenopausal",0
+parkinson disease,1
+Breast Ductal Carcinoma,0
+"Carcinoma, Gingival",0
+Human Cytomegalovirus Infection,0
+human cytomegalovirus infection,0
+Nasal Cavity Inverting Papilloma,0
+Blood Coagulation Disorders,0
+Early-Stage Colon Adenocarcinoma,0
+Neuronal Apoptosis-Related Diseases,0
+Retinal Vascular Disease,0
+Alveolar Rhabdomyosarcoma,0
+Heart Valve Disease,0
+Lung Injury [unspecific],0
+Dental Enamel Hypoplasia,0
+Hypohidrotic Ectodermal Dysplasia,0
+Status Epilepticus,0
+Salivary Gland Disease,0
+Cone Dystrophy,0
+Allergic Contact Dermatitis,0
+Cornea Squamous Cell Carcinoma,0
+Sciatic Nerve Injury,0
+alveolar rhabdomyosarcoma,0
+Pediatric Ependymoma,0
+Diabetic Encephalopathy,0
+Diabetic Polyneuropathy,0
+Respiratory System Disease,0
+Infectious Bursal Disease Virus,0
+Monocytic Leukemia,0
+"Carcinoma, Pancreatic Ductal",0
+Arteriovenous Malformations of the Brain,0
+Becker Muscular Dystrophy,0
+"Muscular Dystrophy, Facioscapulohumeral",0
+Bronchopneumonia,0
+Rheumatic Myocarditis,0
+muscle diseases [unspecific],0
+Diabetic Peripheral Neuropathy,0
+"Carcinoma, Oropharyngeal",0
+Fabry Disease,0
+Subacute Sclerosing Panencephalitis,0
+"squamous cell carcinoma, esophageal",0
+Lichen Planus,0
+Cutaneous Lupus Erythematosus,0
+Johne Disease,0
+Small Intestine Carcinoma,0
+"diabetes mellitus, gestational",0
+Embryonal Testis Carcinoma,0
+Non-Traumatic Osteonecrosis,0
+Uterine Corpus Endometrial Carcinoma,0
+oral neoplasms,0
+Leiomyoma,0
+"adenocarcinoma, colon",0
+Patau Syndrome,0
+urinary bladder cancer,0
+Fibrosarcoma,0
+"leukemia-lymphoma, adult t-cell",1
+Hemangiosarcoma,0
+Myositis Ossificans,0
+Demyelinating Diseases,0
+Cryptosporidium infection,0
+Odontogenic Tumors,0
+Oligodendroglioma,0
+head and neck neoplasms,32
+Pancreatic Diseases,0
+"Lymphoma, Extranodal NK-T-Cell",0
+"carcinoma, lung, small-cell",0
+Osteopetrosis,0
+Malignant Peripheral Nerve Sheath Tumor,0
+Rhabdoid Cancer,0
+"squamous cell carcinoma, laryngeal or hypopharyngeal",0
+Epithelioid Sarcoma,0
+Melasma,0
+Glioblastoma Mesenchymal Subtype,0
+Fungal Keratitis,0
+Inner Ear Inflammation,0
+Varicocele,0
+Anxiety,0
+"cardiomyopathy, hypertrophic",2
+Hepatic Ischemia-Reperfusion Injury,0
+Choroidal Neovascularization,0
+Fever,0
+osteosarcoma,3
+"Adenocarcinoma, Gastric-Esophageal Junction",0
+Nephrolithiasis,0
+Thrombocytopenia,0
+Asthenozoospermia,0
+"Chromosome 22Q11.2 Deletion Syndrome, Distal",0
+Borjeson-Forssman-Lehmann Syndrome,0
+Somatotropinoma,0
+Lynch Syndrome,0
+Congenital Myasthenic Syndrome,0
+Cardiac Myxoma,0
+Follicular Atresia,0
+Oral Submucous Fibrosis,0
+Osteomyelitis,0
+ischemic heart disease,0
+Congenital Microtia,0
+Roberts Syndrome,0
+"carcinoma, cervical",0
+Post-Traumatic Stress Disorder,0
+Iron Metabolism Disease,0
+Liver Transplant Rejection,0
+"Carcinoma, Gastric, Signet Ring Cell",0
+Complex Regional Pain Syndrome,0
+Sickle Cell Anemia,0
+Essential Thrombocythemia,0
+Myxoid Liposarcoma,0
+Anaplastic Astrocytoma,0
+Knee Osteoarthritis,0
+liver cirrhosis,4
+"carcinoma, gastric",0
+"carcinoma, prostate",0
+Diabetic Cataract,0
+Obstructive Sleep Apnea,0
+Thyroid-Associated Ophthalmopathy,0
+Ileus,0
+Cardio-Renal Syndrome,0
+Bone Cancer,0
+hepatocellular carcinoma,0
+Spinal Chordoma,0
+Cartilage Disease [unspecific],0
+Kidney Osteogenic Sarcoma,0
+Cleidocranial Dysplasia,0
+Autosomal Dominant Polycystic Kidney Disease,0
+Pineal Gland Cancer,0
+Legg-Calve-Perthes Disease,0
+Evans Syndrome,0
+Cerebrovascular Disease,0
+Angiomyolipoma,0
+Sickle Cell Disease,0
+"Meningitis, Pneumococcal",0
+Cor Pulmonale,0
+Coronavirus Infections,0
+Lymphocytic Choriomeningitis,0
+Dengue Shock Syndrome,0
+MALT Lymphoma,0
+Congenital Hypothyroidism,0
+Arterial Calcification of Infancy,0
+Ocular Motility Disease,0
+Idiopathic Scoliosis,0
+"Carcinoma, Head And Neck",0
+hemophilus influenzae infection,0
+Hidradenitis Suppurativa,0
+Visceral Leishmaniasis,0
+Chronic Cerebral Hypoperfusion,0
+Peri-Implantitis,0
+Aniridia,0
+Venous Thromboembolism,0
+Diarrhea,0
+osteoporosis,3
+Glomerulosclerosis,0
+Rapidly Progressive Glomerulonephritis,0
+Arteriovenous Malformation,0
+Enteropathy,0
+Mast Cell Neoplasm,0
+Bladder Fibrosis,0
+Mucosulfatidosis,0
+Tauopathy,0
+laryngeal neoplasms,1
+Pelvic Organ Prolapse,0
+Primary Aldosteronism,0
+Light-Induced Retinal Injury,0
+Hemoglobinopathy,0
+Burns,0
+Hemophagocytic Lymphohistiocytosis,0
+Uremic Neuropathy,0
+"Carcinoma, Vulvar",0
+Hyperuricemia,0
+Skin Injury,0
+Mitochondrial Encephalomyopathy,0
+Peritoneal Fibrosis,0
+Uterine Leiomyosarcoma,0
+uterine leiomyosarcoma,0
+Corneal Neovascularization,0
+Uterine Carcinosarcoma,0
+Intraductal Papillary Mucinous Neoplasms,0
+Short Bowel Syndrome,0
+Prostate Disease,0
+Intestinal Barrier Dysfunction,0
+Seizures,0
+"leukemia, t-cell",4
+Gliosis,0
+PTEN Hamartoma Tumor Tyndrome,0
+MELAS Syndrome,0
+Retinitis Pigmentosa,0
+"Lymphoma, Primary Effusion",0
+"lymphoma, primary effusion",1
+Endotoxemia,0
+"squamous cell carcinoma, lung",0
+Neuroma,0
+Learned Helplessness,0
+barrett esophagus,1
+Mycosis Fungoides,0
+"Aortic Aneurysm, Thoracic",0
+glioblastoma,1
+"Allergic Rhinitis,Perennial",0
+Prolactinoma,0
+"Squamous Cell Carcinoma, Sinonasal",0
+myotonic muscular dystrophy,0
+Hereditary Hemorrhagic Telangiectasia,0
+Cytomegalovirus Retinitis,0
+Myositis,0
+ectopic pregnancy,0
+Fibromyalgia,0
+"Constriction, Pathologic",0
+Cardiotoxicity,0
+Cerebral Cavernous Malformations,0
+"Carcinoma, Adenoid Cystic",0
+Endocrine Gland Neoplasms,0
+"Fibromatosis, Aggressive",0
+Vasomotor Rhinitis,0
+Alcoholic Cardiomyopathy,0
+Ovarian Germ Cell Cancer,0
+NUT Midline Carcinoma,0
+Urinary System Cancer,0
+Carcinosarcoma,0
+azoospermia,1
+Nevus,0
+Frontotemporal Lobar Degeneration,0
+"Shock, Septic",0
+gastrointestinal neoplasms,23
+thyroid lymphoma,0
+Thyroid Lymphoma,0
+Mycobacterium Avium Complex Disease,0
+"Stroke, Hemorrhagic",0
+"Carcinoma, Supraglottic",0
+Uterine Corpus Serous Adenocarcinoma,0
+Varicella,0
+Acute Liver Failure,0
+Pallister-Killian Syndrome,0
+Multiple System Atrophy,0
+Lymphoproliferative Disorders,0
+"Small Cell Carcinoma, Esophageal",0
+Head And Neck Adenoid Cystic Carcinoma,0
+Medulloepithelioma,0
+non-traumatic osteonecrosis,0
+Chronic Pancreatitis,0
+"Carcinoma, Renal Cell, Chromophobe",0
+Necrotizing Enterocolitis,0
+Uterine Corpus Myxoid Leiomyosarcoma,0
+Neuroepithelial Tumors,0
+pulmonary sarcoidosis,0
+Vogt-Koyanagi-Harada Disease,0
+Silicosis,0
+Balkan Nephropathy,0
+Borna Disease,0
+borna disease,1
+Polyangiitis,0
+Reproductive System Disease,0
+Guillain-Barre Syndrome,0
+Porphyromonas Gingivalis,0
+Lyme Disease,0
+"Adenocarcinoma, Sebaceous",0
+Penis Carcinoma,0
+Gestational Trophoblastic Disease,0
+Thymoma,0
+Sertoli Cell-Only Syndrome,0
+Mastitis,0
+Skin Hemangioma,0
+African Swine Fever,0
+"Carcinoma, Mucoepidermoid",0
+Vulvar Squamous Tumor,0
+Mitral Valve Disease,0
+Acute Peritonitis,0
+Peritoneal Neoplasms,0
+pituitary adenoma,0
+Parathyroid Carcinoma,0
+Hearing Disorders,0
+Ganglioglioma,0
+Renal Oncocytoma,0
+Smoke Inhalation Injury,0
+Prader-Willi Syndrome,0
+X-linked Alport Syndrome,0
+"adenocarcinoma, endometrial",0
+Eclampsia,0
+Nephrosclerosis,0
+"Niemann-Pick Disease, Type C",0
+mesothelioma,2
+"Carcinoma, Ehrlich Tumor",0
+alopecia,4
+Gerstmann-Straussler-Scheinker Syndrome,0
+Multiple Endocrine Neoplasia Type 1,0
+"Liver Diseases, Alcoholic",0
+Seminoma,0
+Esophagitis,0
+esophageal neoplasms,1
+Pancreatic Intraductal Papillary Mucinous Neoplasms,0
+HIV-Associated Lipodystrophy,0
+Osteonecrosis,0
+Gastroduodenal Ulcer,0
+Sebaceous Carcinoma,0
+Gaucher Disease,0
+Chronic Alcohol-Induced Alveolar Macrophage Dysfunction,0
+"lymphoma, large b-cell, diffuse",1
+"Shock, Hemorrhagic",0
+Proliferative Vitreoretinal Disease,0
+Otitis Media,0
+Chorioamnionitis,0
+Adenosquamous Pancreas Carcinoma,0
+pleural mesothelioma,0
+Non Specific Chronic Endometritis,0
+"Adenocarcinoma, Ampullary",0
+Placenta Cancer,0
